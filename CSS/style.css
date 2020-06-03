@@ -1,0 +1,27 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: teal   ;
+}
+
+.quem-somos {
+    background-color: orange;
+    color: black
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.destinos {
+    background-color: teal;
+    color: white
+}
+
+.bg-footer{
+    background-color: black;
+    color: white
+}
